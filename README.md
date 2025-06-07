@@ -1,6 +1,7 @@
 # YouTube Analytics Streaming Pipeline
 
 This data engineering project was built by following a tutorial by [CodeWithYu](https://youtu.be/0aqSjJ3-4NI?si=aeXUqwrEZKa0H767).
+This project is a personal learning exercise. All code was written independently while referencing the tutorial.
 
 ## Overview
 
