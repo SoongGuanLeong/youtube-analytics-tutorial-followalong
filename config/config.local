@@ -1,0 +1,5 @@
+[youtube]
+API_KEY=your_api_key_here
+PLAYLIST_ID=your_playlist_id_here
+
+# add your own YouTube Data API key and playlist ID
